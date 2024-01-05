@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <remote name="origin" fetch=".." revision="main"/>
+ <remote name="github" fetch="ssh://git@github.com/j1nh0" revision="main"/>
+ <default remote="github" revision="origin/main"/>
+</manifest>
